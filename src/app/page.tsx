@@ -30,7 +30,7 @@ export default function HomePage() {
       </section>
 
       <footer className="public-footer">
-        © {new Date().getFullYear()} INTRIX. All rights reserved.
+        © {new Date().getFullYear()} © 2026 INTRIX. All rights reserved.
       </footer>
     </main>
   );
